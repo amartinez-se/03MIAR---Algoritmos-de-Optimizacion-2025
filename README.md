@@ -1,1 +1,1 @@
-# 03MIAR---Algoritmos-de-Optimizacion-2025
+# 03MIAR - Algoritmos de Optimizacion 2025
